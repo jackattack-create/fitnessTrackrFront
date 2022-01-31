@@ -2,3 +2,13 @@
     margin: 10px 20px;
     border-top: 1px solid #333;
 }
+
+.routineActivitiesRow {
+    display:flex;
+    align-items: baseline;
+}
+
+.routineActivitiesRow h4,
+.routineActivitiesRow p {
+    margin-right:20px;
+}
